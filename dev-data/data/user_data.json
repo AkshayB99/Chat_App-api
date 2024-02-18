@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "first_name": "Veronike",
+    "last_name": "Skittles",
+    "email": "vskittles0@yahoo.com",
+    "gender": "Female",
+    "address": "Apt 1074"
+  },
+  {
+    "id": 2,
+    "first_name": "Haley",
+    "last_name": "Osgordby",
+    "email": "hosgordby1@psu.edu",
+    "gender": "Male",
+    "address": "PO Box 91669"
+  },
+  {
+    "id": 3,
+    "first_name": "Bernie",
+    "last_name": "Ruben",
+    "email": "bruben2@sfgate.com",
+    "gender": "Male",
+    "address": "4th Floor"
+  },
+  {
+    "id": 4,
+    "first_name": "Waverley",
+    "last_name": "Asplen",
+    "email": "wasplen3@free.fr",
+    "gender": "Male",
+    "address": "Apt 494"
+  },
+  {
+    "id": 5,
+    "first_name": "Chandal",
+    "last_name": "Candey",
+    "email": "ccandey4@woothemes.com",
+    "gender": "Female",
+    "address": "Apt 814"
+  },
+  {
+    "id": 6,
+    "first_name": "Hobard",
+    "last_name": "Barbisch",
+    "email": "hbarbisch5@wiley.com",
+    "gender": "Agender",
+    "address": "PO Box 74135"
+  },
+  {
+    "id": 7,
+    "first_name": "Robinetta",
+    "last_name": "Cornell",
+    "email": "rcornell6@huffingtonpost.com",
+    "gender": "Female",
+    "address": "Suite 76"
+  },
+  {
+    "id": 8,
+    "first_name": "Tiffany",
+    "last_name": "Exon",
+    "email": "texon7@shop-pro.jp",
+    "gender": "Genderqueer",
+    "address": "Apt 292"
+  },
+  {
+    "id": 9,
+    "first_name": "Suzanna",
+    "last_name": "Reede",
+    "email": "sreede8@about.com",
+    "gender": "Female",
+    "address": "Apt 746"
+  },
+  {
+    "id": 10,
+    "first_name": "Karna",
+    "last_name": "Martynka",
+    "email": "kmartynka9@about.com",
+    "gender": "Female",
+    "address": "Room 348"
+  },
+  {
+    "id": 11,
+    "first_name": "Lula",
+    "last_name": "Grinter",
+    "email": "lgrintera@sfgate.com",
+    "gender": "Female",
+    "address": "PO Box 22784"
+  },
+  {
+    "id": 12,
+    "first_name": "Ferrell",
+    "last_name": "Von Der Empten",
+    "email": "fvonderemptenb@sakura.ne.jp",
+    "gender": "Male",
+    "address": "Suite 83"
+  },
+  {
+    "id": 13,
+    "first_name": "Auguste",
+    "last_name": "Place",
+    "email": "aplacec@dmoz.org",
+    "gender": "Female",
+    "address": "PO Box 82402"
+  },
+  {
+    "id": 14,
+    "first_name": "Raff",
+    "last_name": "Rosewarne",
+    "email": "rrosewarned@ftc.gov",
+    "gender": "Male",
+    "address": "Suite 11"
+  },
+  {
+    "id": 15,
+    "first_name": "Hermann",
+    "last_name": "McCullagh",
+    "email": "hmccullaghe@imageshack.us",
+    "gender": "Male",
+    "address": "Apt 667"
+  },
+  {
+    "id": 16,
+    "first_name": "Iolande",
+    "last_name": "Hidderley",
+    "email": "ihidderleyf@washington.edu",
+    "gender": "Genderfluid",
+    "address": "10th Floor"
+  },
+  {
+    "id": 17,
+    "first_name": "Zabrina",
+    "last_name": "Ross",
+    "email": "zrossg@mysql.com",
+    "gender": "Female",
+    "address": "Suite 76"
+  },
+  {
+    "id": 18,
+    "first_name": "Angele",
+    "last_name": "Flay",
+    "email": "aflayh@gizmodo.com",
+    "gender": "Female",
+    "address": "Suite 94"
+  },
+  {
+    "id": 19,
+    "first_name": "Lexie",
+    "last_name": "Gasker",
+    "email": "lgaskeri@spotify.com",
+    "gender": "Female",
+    "address": "Suite 32"
+  },
+  {
+    "id": 20,
+    "first_name": "Tine",
+    "last_name": "Exall",
+    "email": "texallj@behance.net",
+    "gender": "Female",
+    "address": "Suite 77"
+  },
+  {
+    "id": 21,
+    "first_name": "Akshay",
+    "last_name": "B",
+    "email": "ab@gmail.com",
+    "gender": "mail",
+    "address": "Belagavi"
+  }
+]
