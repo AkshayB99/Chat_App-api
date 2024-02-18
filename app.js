@@ -14,7 +14,7 @@ const messageRouter = require('./routes/messageRouter');
 
 const app = express();
 
-// 1) GLOBAL MIDDLEWARES
+// 1) GLOBAL MIDDLEWARES ok
 
 const corsOptions = {
   origin: '*',
